@@ -1,0 +1,5 @@
+var img = $('<img class="delete" src="https://cdn1.iconfinder.com/data/icons/uidesignicons/delete.png">').click(onDeleteButtonClicked);
+var img1 = $('<img class="edit" src="https://cdn1.iconfinder.com/data/icons/freeapplication/png/24x24/Modify.png">').click(onEditButtonClicked);
+var img2 = $('<img class="check" src="https://cdn1.iconfinder.com/data/icons/diagona/icon/16/102.png ">').click(onCheckButtonClicked);
+
+			
